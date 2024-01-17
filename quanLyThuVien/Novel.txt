@@ -1,0 +1,18 @@
+-----------------------------------
+a01
+The Witcher
+Fantasy
+Andrzej Sapkowski
+SuperNowa
+03/12/1986
+30000
+5
+-----------------------------------
+a02
+A song of ice and fire
+Fantasy
+George R. R. Martin
+Bantam Books
+01/08/1996
+17000
+2
